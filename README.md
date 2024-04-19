@@ -16,7 +16,7 @@ I'm a trained genetecist / molecular biologist with experience in academic resea
 
 #### Fun fact about _shibire_
 
-_shibire_ is not just my GitHub username: it is a cool mutation in _Drosophila melanogaster_. _Drosophila_ are the tiny flies you sometimes find loitering around fruit bows. They're an important organism in genetics and they're the organism I'm most specialised in using. When flies have the _shibire_ mutation, they behave normally in temperatures up to 29ºC, but above 29ºC they become paralysed! What's especially cool is that this paralysis is reversible: lowering the temperature below 29ºC will result in the flies behaving normally again!
+_shibire_ is not just my GitHub username: it is a cool mutation in _Drosophila melanogaster_. _Drosophila_ are the tiny flies you sometimes find loitering around fruit bowls. They're an important organism in genetics and they're the organism I'm most experienced in using. When flies have the _shibire_ mutation, they behave normally in temperatures up to 29ºC, but above 29ºC they become paralysed! What's especially cool is that this paralysis is reversible: lowering the temperature below 29ºC will result in the flies behaving normally again!
 
 <!--
 **shibire/shibire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
